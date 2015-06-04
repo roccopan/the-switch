@@ -26,4 +26,5 @@ $(document).on('click', 'button.off', function(e) {
 
 	// Now change the background-color
 	$('body').removeClass('dark').addClass('light');
+
 });
